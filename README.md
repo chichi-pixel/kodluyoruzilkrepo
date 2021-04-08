@@ -14,8 +14,9 @@
  ## Projeyi klonladiktan sonra Visual Studio Code programinda aciniz. 
 
  ### Linux icin: 
- ´cdkodluyoruzilkrepo´
- ´code.´
+ [cdkodluyoruzilkrepo]
+ 
+ [code.]
 
  # Contributing
 
@@ -25,9 +26,8 @@
 
  [MIT](MIT)
 
- #### Image 
 
-! [Kodluyoruz!](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+ [Kodluyoruz!](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
 
 
